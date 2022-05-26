@@ -1,0 +1,22 @@
+id: DB07D7F78
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:45:39+00:00'
+last_modified: '2022-05-26T12:01:43.439920+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d768:
+      image_group_id: I1PD95881
+      title: རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་བཤད་པ།
+      total_pages: 1869
+      order: 36
+      base_file: d768.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
